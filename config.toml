@@ -31,8 +31,16 @@ enableEmoji = true
   author = "Bill Eger"
   since = "2020"
   subtitle = "Advancing Urban Sustainabilty & Driving City Decarbonization"
-  subtitle_additional = "Triathlete &middot; Ultramarathoner &middot; Recovery Rugby Play &middot; $musician"
-  subtitle_additional_2 = "Urban Technology & Smart City Innovator"
+  subtitle_additional = "Triathlete"
+  subtitle_additional_2 = "Trail Ultra Marathoner"
+  subtitle_additional_3 = "Recovering Rugby Player"
+  subtitle_additional_4 = "Weightlifter"
+  subtitle_additional_5 = "Travel enthusiast"
+  subtitle_additional_8 = "Hiker & Backpacker"
+  subtitle_additional_6 = "Epicurian"
+  subtitle_additional_7 = "Homebrewer & Craft Beer Enthusiast"
+  subtitle_additional_9 = "Collector of Skills"
+  subtitle_additional_10 = "Reader & Constant Learner"
 
 [params.social]
   linkedin = "egeriicw"
