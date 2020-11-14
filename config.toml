@@ -1,0 +1,47 @@
+baseURL = "https://www.billeger.me/"
+languageCode = "en-us"
+title = ""
+theme = "KeepIt"
+copyrightHolder = "Bill Eger"
+copyrightYear = "2020"
+enableEmoji = true
+
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 3
+  [[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio"
+    weigth = 1
+
+
+[params]
+  avatar = "/images/Eger_Headshot_1_HighRes_Square.png"
+  author = "Bill Eger"
+  since = "2020"
+  subtitle = "Urban Energy & Sustainability Executive"
+  subtitle_additional = "Climate Action & Resilience Leader"
+  subtitle_additional_2 = "Urban Technology & Smart City Innovator"
+
+[params.social]
+  linkedin = "egeriicw"
+  github = "egeriicw"
+  twitter = "egeriicw"
+  email = "egeriicw@gmail.com"
+
+[params.share]
+  linkedin = true
+  github = true
+  twitter = true
+  email = true
