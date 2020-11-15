@@ -24,6 +24,10 @@ enableEmoji = true
     name = "Portfolio"
     url = "/portfolio"
     weigth = 1
+  [[menu.main]]
+    name = "Recommendations"
+    url = "/recommendations"
+    weigth = 1
 
 
 [params]
