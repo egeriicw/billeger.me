@@ -1,7 +1,7 @@
 baseURL = "https://www.billeger.me/"
 languageCode = "en-us"
 title = ""
-theme = "KeepIt"
+theme = "KeepItNewBE"
 copyrightHolder = "Bill Eger"
 copyrightYear = "2020"
 enableEmoji = true
