@@ -9,12 +9,8 @@ enableEmoji = true
 
 [menu]
   [[menu.main]]
-    name = "About"
+    name = "About/CV"
     url = "/about"
-    weight = 1
-  [[menu.main]]
-    name = "Resume"
-    url = "/resume"
     weight = 1
   [[menu.main]]
     name = "Blog"
